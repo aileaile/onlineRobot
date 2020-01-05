@@ -1,0 +1,6 @@
+/.idea/* 
+/data/* 
+/target/* 
+*.jpg
+*.rar
+*.iml
